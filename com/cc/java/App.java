@@ -34,10 +34,11 @@ public class App {
 	// 	output(objList.get(objList.size()-1).getAttributes());
 		
 	// }
-	
-	// public static void output(String outStr) {
-	// 	System.out.println(outStr);
-	// }
 
 	}
+
+	public static void output(String outStr) {
+		System.out.println(outStr);
+	}
+
 }
